@@ -1,0 +1,10 @@
+{
+  "item.vanilla_extended.locust": "Locust",
+  "item.vanilla_extended.raw_bronze": "Raw Bronze",
+  "item.vanilla_extended.bronze_ingot": "Bronze Ingot",
+
+  "block.vanilla_extended.locust_block": "Pale of Locust",
+  "block.vanilla_extended.bronze_ore": "Bronze Ore",
+
+  "creativetab.vanilla_extended_tab": "Vanilla Extended"
+}

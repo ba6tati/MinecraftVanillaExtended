@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "vanilla_extended:locust"
+    }
+  },
+  "result": {
+    "item": "vanilla_extended:locust_block"
+  }
+}

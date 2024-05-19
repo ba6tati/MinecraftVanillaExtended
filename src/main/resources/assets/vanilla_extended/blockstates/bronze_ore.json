@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanilla_extended:block/bronze_ore"
+    }
+  }
+}

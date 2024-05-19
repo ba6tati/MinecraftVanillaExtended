@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "vanilla_extended:locust_block"
+    }
+  ],
+  "result": {
+    "item": "vanilla_extended:locust",
+    "count": 9
+  }
+}
